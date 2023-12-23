@@ -13,9 +13,10 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Clone repo
+2. Import variant of colors.h in config.def.h
+3. Recompile dwm and restart dwm
+4. Enjoy
 
 ## Gallery
 
